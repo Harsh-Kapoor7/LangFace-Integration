@@ -1,0 +1,7 @@
+langchain
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
+sentence_transformers
+langchain_community
